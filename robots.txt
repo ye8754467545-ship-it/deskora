@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /deskora/go/
+Disallow: /deskora/en/go/
+
+Sitemap: https://ye8754467545-ship-it.github.io/deskora/sitemap-index.xml
